@@ -1,0 +1,2 @@
+# ha_current_ladder_and_real_time_electricity_price
+Homeassistant 实时电价与当前用电阶梯
